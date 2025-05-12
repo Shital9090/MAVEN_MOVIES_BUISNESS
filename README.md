@@ -1,6 +1,6 @@
 # 🎬 Maven Movies: Unlocking Insights for a Rental Business
 
-![Project Banner](code_outputs/movies.jpg)
+![Project Banner]![Image](https://github.com/user-attachments/assets/2933374a-ebc6-40a4-8d7f-2823449ce00e)
 
 ## 📌 Project Overview
 The MAVENMOVIES database is a sample relational database designed to simulate the operations of a movie rental business. It contains interconnected tables covering key aspects such as:
