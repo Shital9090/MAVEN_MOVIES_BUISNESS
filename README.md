@@ -3,7 +3,23 @@
 ![Project Banner](code_outputs/movies.jpg)
 
 ## 📌 Project Overview
-This project focuses on analyzing the *MAVENMOVIES* database to extract valuable insights that can enhance business operations, marketing strategies, and inventory management. SQL is extensively used to perform exploratory data analysis (EDA), understand the database schema, and answer critical business queries.
+The MAVENMOVIES database is a sample relational database designed to simulate the operations of a movie rental business. It contains interconnected tables covering key aspects such as:
+
+Customers
+
+Films
+
+Actors
+
+Staff
+
+Stores
+
+Rentals
+
+Payments
+
+Inventory
 
 
 ---
