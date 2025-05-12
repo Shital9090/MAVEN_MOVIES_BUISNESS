@@ -5,21 +5,21 @@
 ## 📌 Project Overview
 The MAVENMOVIES database is a sample relational database designed to simulate the operations of a movie rental business. It contains interconnected tables covering key aspects such as:
 
-Customers
+ ** Customers
 
-Films
+** Films
 
-Actors
+** Actors
 
-Staff
+** Staff
 
-Stores
+** Stores
 
-Rentals
+** Rentals
 
-Payments
+** Payments
 
-Inventory
+** Inventory
 
 
 ---
